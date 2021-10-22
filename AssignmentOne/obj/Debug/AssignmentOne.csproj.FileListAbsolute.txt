@@ -1,0 +1,10 @@
+C:\Users\chris\Desktop\Tutorial Hell\C#\conta\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe.config
+C:\Users\chris\Desktop\Tutorial Hell\C#\conta\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe
+C:\Users\chris\Desktop\Tutorial Hell\C#\conta\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.pdb
+C:\Users\chris\Desktop\Tutorial Hell\C#\conta\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Tutorial Hell\C#\conta\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.Form1.resources
+C:\Users\chris\Desktop\Tutorial Hell\C#\conta\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.Properties.Resources.resources
+C:\Users\chris\Desktop\Tutorial Hell\C#\conta\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\Tutorial Hell\C#\conta\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Tutorial Hell\C#\conta\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.exe
+C:\Users\chris\Desktop\Tutorial Hell\C#\conta\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.pdb
